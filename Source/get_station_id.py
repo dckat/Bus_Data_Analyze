@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 
-API_KEY = "tSmCWfqzpKOoTFbjKnZdt%2BhrOLxUIM1L4H9pC6sl1E1mCz4SsW4kkTbSMD8deZYJdRQkHXpXmk6Az2are2xSrg%3D%3D"
+API_KEY = "발급받은 API 키"
 
 # 정류소 정보를 얻기 위해서는 노선 ID가 필요하므로 이를 open
 file = open('convert_name_to_id.csv', 'r')

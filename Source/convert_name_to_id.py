@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 
-API_KEY = "tSmCWfqzpKOoTFbjKnZdt%2BhrOLxUIM1L4H9pC6sl1E1mCz4SsW4kkTbSMD8deZYJdRQkHXpXmk6Az2are2xSrg%3D%3D"
+API_KEY = "발급받은 API 키"
 routeName = ["5100", "9", "7000", "1112", "1560", "M5107"]
 
 busdict = dict()

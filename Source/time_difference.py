@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import urllib.request
 
-API_KEY = "tSmCWfqzpKOoTFbjKnZdt%2BhrOLxUIM1L4H9pC6sl1E1mCz4SsW4kkTbSMD8deZYJdRQkHXpXmk6Az2are2xSrg%3D%3D"
+API_KEY = "발급받은 API 키"
 stationId1 = 228000710
 stationId2 = 228000723
 
