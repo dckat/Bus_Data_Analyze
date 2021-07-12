@@ -4,5 +4,7 @@
 
 ### 기술 스택
   ● Python (주 언어)
+  
   ● BeautifulSoup (XML 크롤링)
+  
   ● Matplot (그래프 시각화)
